@@ -15,5 +15,3 @@ This project utilizes an LSTM (Long Short-Term Memory) model to perform text com
 
 ## Results
 After training the model for 100 epochs, the model can predict the next word in a given text sequence with a reasonable level of accuracy.
-
-Screenshot:
